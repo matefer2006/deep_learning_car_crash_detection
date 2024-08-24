@@ -1,4 +1,4 @@
-# deep_learning_car_crash_detection
+# Development of a Pilot System for the Detection of Traffic Accidents in Montevideo, Uruguay, using Deep Learning Techniques
 
 Road safety is a critical global concern, where traffic accidents are a severe threat to life and infrastructure. In response to this need, we developed a
 pilot system for automatic accident detection using advanced Deep Learning
